@@ -1,0 +1,28 @@
+module.exports = {
+  resolver: {
+    assetExts: [
+      'json',
+      'png',
+      'jpg',
+      'jpeg',
+      'gif',
+      'bmp',
+      'tiff',
+      'webp',
+      'svg',
+      'mp4',
+      'm4a',
+      'webm',
+      'wav',
+      'caf',
+      'aac',
+      'flac',
+      'ogg',
+      'mp3',
+      '3gp',
+      'heic',
+      'heif',
+      'glb',
+    ],
+  },
+};
